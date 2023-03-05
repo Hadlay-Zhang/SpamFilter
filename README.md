@@ -1,8 +1,3 @@
-## Table of Contents
-
-[TOC]
-
-
 ## A SpamFilter based on Naive-Bayes and Adaboost
 
 ### Background
@@ -11,14 +6,14 @@ This is the final course project of CS100580, Tongji University. It is a Spam pr
 
 ### Description
 
-**training.py: ** training part
+__training.py:__ training part
 
-**testing.py: ** testing part
+__testing.py:__ testing part
 
-**AdaboostNavieBayes.py: ** Naive-Bayes and Adaboost models
+__AdaboostNavieBayes.py:__ Naive-Bayes and Adaboost models
 
-**main.py: ** entry of the project
+__main.py:__ entry of the project
 
 ### Usage
 
-run **main.py**
+run __main.py__
